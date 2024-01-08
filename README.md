@@ -61,4 +61,4 @@ Piattaforma che mostra videogiochi, e da la possibilitá ai suoi utenti autentic
 
 ## Deployment
 
-* [ ] Allega il link dove l applicazione verrá esposta online.
+* [x] https://gamere-hub.vercel.app/
